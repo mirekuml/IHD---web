@@ -1,0 +1,6 @@
+{
+  "name": "IHD Page Builder",
+  "description": "Interaktivní editor a šablony pro prezentaci o IHD Global (klinický výzkum a inovace zdravotnických dat).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
